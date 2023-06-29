@@ -100,6 +100,7 @@ function App() {
             completedItems={completedItems}
             handleToggleComplete={handleToggleComplete}
             handleDelete={handleDelete}
+            filterOption={filterOption}
           />
 
           <Footer

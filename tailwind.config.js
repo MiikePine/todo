@@ -9,6 +9,13 @@ export default {
       fontFamily: {
         'JosefinSans': ['Josefin Sans', 'sans-serif'],
       },
+
+      fontWeight: {
+        'extrabold': '800',
+      },
+        fontWeight: {
+          'bold': 'bold',
+        },
       colors: {
         'very-dark': 'hsl(237, 14%, 26%)',
       },
